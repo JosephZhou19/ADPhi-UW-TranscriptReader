@@ -1,2 +1,13 @@
 
 data/unofficialTranscriptFall2022.pdf
+build/transcriptReader/Analysis-00.toc
+*.zip
+*.toc
+*.pyc
+*.pyz
+*.manifest
+*.pkg
+*.txt
+*.html
+*.pdf
+*.spec
